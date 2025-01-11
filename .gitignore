@@ -23,7 +23,7 @@ build
 /Oricutron.exe
 /SDL.dll
 /SDL2.dll
-/disks/*.dsk
+#/disks/*.dsk
 /pravdisks/*.dsk
 /teledisks/*.dsk
 /Oricutron-sdl2
